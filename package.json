@@ -1,0 +1,24 @@
+{
+  "name": "@icoding/textarea",
+  "version": "0.1.0",
+  "description": "icoding ai for textarea",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "homepage": "https://github.com/quany/textarea",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quany/textarea.git"
+  },
+  "keywords": [
+    "ai",
+    "textarea"
+  ],
+  "author": "quany@live.com",
+  "license": "MIT",
+  "dependencies": {
+    "@copilotkit/react-core": "^1.1.1",
+    "@copilotkit/react-textarea": "^1.1.1"
+  }
+}
