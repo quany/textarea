@@ -1,3 +1,4 @@
+import React from "react";
 import { CopilotKit } from "@copilotkit/react-core";
 import { CopilotTextarea } from "@copilotkit/react-textarea";
 
