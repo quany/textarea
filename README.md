@@ -69,3 +69,7 @@ function EmailContent() {
 <a href="https://github.com/quany/textarea/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=quany/textarea" />
 </a>
+
+
+## 群聊
+![企业微信群聊](https://aifix.oss-cn-beijing.aliyuncs.com/static/temp/img/contact_me_qr.png?x-oss-process=image/resize,h_100,m_lfit)
