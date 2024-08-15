@@ -1,7 +1,7 @@
 {
   "name": "@icoding/textarea",
   "private": false,
-  "version": "0.1.6",
+  "version": "0.1.8",
   "description": "iCoding ai for textarea",
   "scripts": {
     "dev": "tsup --watch --no-splitting",
@@ -42,14 +42,6 @@
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
-  "exports": {
-    ".": {
-      "import": "./dist/index.mjs",
-      "require": "./dist/index.js",
-      "types": "./dist/index.d.ts"
-    },
-    "./styles.css": "./dist/index.css"
-  },
   "author": "quany@live.com",
   "license": "MIT",
   "peerDependencies": {
