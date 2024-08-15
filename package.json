@@ -1,7 +1,7 @@
 {
   "name": "@icoding/textarea",
   "private": false,
-  "version": "0.1.9",
+  "version": "0.2.0",
   "description": "iCoding ai for textarea",
   "scripts": {
     "dev": "tsup --watch --no-splitting",
