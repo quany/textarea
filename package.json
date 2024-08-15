@@ -48,8 +48,8 @@
     "react": "^18.2.0"
   },
   "dependencies": {
-    "@copilotkit/react-core": "^1.1.1",
-    "@copilotkit/react-textarea": "^1.1.1"
+    "@copilotkit/react-core": "1.1.1",
+    "@copilotkit/react-textarea": "1.1.1"
   },
   "files": [
     "dist",
