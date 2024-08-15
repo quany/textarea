@@ -1,3 +1,5 @@
+![智能富文本组件](https://aifix.oss-cn-beijing.aliyuncs.com/static/temp/img/icoding_textarear.gif)
+
 # 智能富文本组件
 
 > 为富文本组件提供智能提示功能,增强用户输入体验;关注公众号,随意打赏该[文章](https://mp.weixin.qq.com/s/vW7Ntk4H3oBi-S3zQFptIA)即可获得API Key.
